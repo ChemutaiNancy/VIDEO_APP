@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         final VideoView myvideoview = findViewById(R.id.videoView);
         //set link of the video
-        myvideoview.setVideoPath("https://www.youtube.com/watch?v=SWYqp7iY_Tc");
+        myvideoview.setVideoPath("https://www.youtube.com/watch?v=R-JbDMYmAQM");
 
         //make video start
         myvideoview.start();
